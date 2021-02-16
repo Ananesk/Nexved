@@ -1,11 +1,11 @@
-.title {
+.main-content__title {
 	font-family: 'PT Serif', serif;
 }
 
-.offer {
+.main-content__description {
 	font-family: 'Roboto', sans-serif;
 }
 
-.link {
+.menu {
 	font-family: 'Roboto', sans-serif;
 }
